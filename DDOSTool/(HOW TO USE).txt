@@ -1,0 +1,2 @@
+pip install requests fake_useragent termcolor
+python DDostool.py
